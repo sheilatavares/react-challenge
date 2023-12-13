@@ -1,0 +1,33 @@
+.word span {
+  color: #fff;
+  padding: 2px;
+  font-family: "Roboto", sans-serif;
+  font-size: 5rem;
+  font-weight: 900;
+}
+.highlight {
+  background-color: #054730;
+}
+.word {
+  margin-top: 15px;
+}
+
+h3 {
+  color: #fff;
+  font-size: 2rem;
+  width: 500px;
+}
+.alert {
+  margin-top: 20px;
+
+  display: flex;
+  flex-direction: column;
+}
+.alert span {
+  color: #fff;
+  margin-top: 5px;
+  background-color: #445f56;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,44 @@
+.BoxInput {
+  display: flex;
+  padding-top: 20px;
+  flex-direction: column;
+  text-align: left;
+  font-family: "Roboto", sans-serif;
+}
+
+.BoxInput label {
+  color: #fff;
+  font-weight: 600;
+  padding-bottom: 3px;
+  font-size: 0.9rem;
+}
+
+.BoxInput input {
+  border-radius: 5px;
+  padding: 5px;
+  /* width: 180px; */
+  height: 20px;
+  background-color: #b3b3b3;
+  border: none;
+}
+
+form {
+  width: auto;
+  margin-top: 20px;
+}
+
+button {
+  background-color: #054730;
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+  color: #fff;
+  font-size: medium;
+  font-weight: bold;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #07724d;
+}
